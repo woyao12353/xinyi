@@ -225,6 +225,14 @@
         "type": 101
     },
     {
+        "name": "🪵笨比",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/mogg.js",
+        "webSite": "https://du4k.cn",
+        "remark": "网盘 1.6.41 及以上版本可用",
+        "version": "2",
+        "type": 101
+    },
+    {
         "name": "🌾小米网盘",
         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/xiaomi.js",
         "webSite": "http://www.mucpan.cc",
